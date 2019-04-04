@@ -1,0 +1,14 @@
+```
+tip: 25
+title: TRC-10 Precision Update
+author: Juliun Brabon <juliun@sesameseed.org>
+category: TRC
+```
+
+## Simple Summary
+
+Allow TRC 10 Tokens to update their precision.
+
+## Motivation
+
+Tokens originally created on the Tron Blockchain, prior to the approval of the proposal "allow the TRC-10 token transfer in smart contracts" were not able to set a "precision" value. As such all of tokens created are set to a default precision value of 0. We recommend allowing tokens from prior to this period the opportunity to set their precision value.
